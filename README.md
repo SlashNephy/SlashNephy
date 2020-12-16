@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 😄
 
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SlashNephy&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SlashNephy)
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SlashNephy&layout=compact&theme=tokyonight)](https://github.com/SlashNephy)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SlashNephy&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/SlashNephy)
 
 <!--
 **SlashNephy/SlashNephy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
