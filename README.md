@@ -1,14 +1,16 @@
 ### (*˘︶˘*).｡.:*♡ すきなもの
 
-📖 Languages: Kotlin, C# (.NET), Python
+📖 Language: Kotlin, C# (.NET), Python
 
 📝 Editor: VS Code, IntelliJ IDEA など JetBrains IDE, nano
 
-⌨️ Terminal: Windows Terminal
+⌨️ Terminal / Shell: Windows Terminal / xonsh
+
+🅰️ Font: Cascadia Mono PL, Noto Sans CJK, Avenir Next
 
 🖥 OS: Arch Linux, WSL 2
 
-🛠 Tool: Docker, Portainer, Jupyter Lab
+🛠 Tool: Docker, Portainer, nginx, Jupyter Lab
 
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SlashNephy&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SlashNephy)
 
