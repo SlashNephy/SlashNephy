@@ -2,6 +2,14 @@
 **SlashNephy/SlashNephy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![GitHub followers](https://img.shields.io/github/followers/SlashNephy?style=social)](https://github.com/SlashNephy)
+[![GitHub User's stars](https://img.shields.io/github/stars/SlashNephy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/SlashNephy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SlashNephy?style=social)](https://twitter.com/SlashNephy)
+[![Discord](https://img.shields.io/discord/187578406940966912?label=Discord%20Server)](https://discord.gg/KA3US7r6zX)
+
+[![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy)](https://https://keybase.io/SlashNephy)
+[![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy)](https://https://keybase.io/SlashNephy)
+
 (*˘︶˘*).｡.:*♡ : Favorite things
 
 📖 Language: [Kotlin](https://kotlinlang.org), [.NET](https://docs.microsoft.com/ja-jp/dotnet) (C#), [Python](https://www.python.org), [Rust](https://www.rust-lang.org), [TypeScript](https://www.typescriptlang.org)
