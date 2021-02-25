@@ -1,32 +1,28 @@
-### (*˘︶˘*).｡.:*♡ すきなもの
-
-📖 Language: Kotlin, C# (.NET), Python
-
-📝 Editor: VS Code, IntelliJ IDEA など JetBrains IDE, nano
-
-⌨️ Terminal / Shell: Windows Terminal / xonsh
-
-🅰️ Font: Cascadia Mono PL, Noto Sans CJK, Avenir Next
-
-🖥 OS: Arch Linux, WSL 2
-
-🛠 Tool: Docker, Portainer, nginx, Jupyter Lab
-
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SlashNephy&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SlashNephy)
-
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SlashNephy&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/SlashNephy)
-
 <!--
 **SlashNephy/SlashNephy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+(*˘︶˘*).｡.:*♡ : Favorite things
+
+📖 Language: [Kotlin](https://kotlinlang.org), [.NET](https://docs.microsoft.com/ja-jp/dotnet) (C#), [Python](https://www.python.org), [Rust](https://www.rust-lang.org), [TypeScript](https://www.typescriptlang.org)
+
+📝 Editor: [VS Code](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com) IDEs (such as [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea)), nano
+
+⌨️ Terminal / Shell: [Windows Terminal](https://docs.microsoft.com/ja-jp/windows/terminal) / [xonsh](https://xon.sh)
+
+🅰️ Font: [Cascadia Mono](https://docs.microsoft.com/ja-jp/windows/terminal/cascadia-code), [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP), [Avenir Next Pro](https://fontplus.jp/font-list/avenirnextltpro-medium)
+
+🖥 OS: [Arch Linux](https://archlinux.org), [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/ja-jp/windows/wsl)
+
+🐋 Virtualization: [Docker](https://www.docker.com), [Portainer](https://www.portainer.io)
+
+🧰 Tool: [nginx](https://www.nginx.com), [Jupyter](https://jupyter.org)
+
+
+<a href="https://github.com/SlashNephy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SlashNephy&show_icons=true&count_private=true&theme=tokyonight&custom_title=Statistics" title="GitHub Stats Car">
+</a>
+
+<a href="https://github.com/SlashNephy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlashNephy&layout=compact&theme=tokyonight&langs_count=8&hide=gnuplot" title="GitHub Top Languages Card">
+</a>
