@@ -7,8 +7,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SlashNephy?style=social)](https://twitter.com/SlashNephy)
 [![Discord](https://img.shields.io/discord/187578406940966912?label=Discord%20Server)](https://discord.gg/KA3US7r6zX)
 
-[![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy)](https://https://keybase.io/SlashNephy)
-[![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy)](https://https://keybase.io/SlashNephy)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy)](https://keybase.io/SlashNephy)
+[![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy)](https://keybase.io/SlashNephy)
 
 (*˘︶˘*).｡.:*♡ : Favorite things
 
