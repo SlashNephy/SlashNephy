@@ -34,3 +34,7 @@
 <a href="https://github.com/SlashNephy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlashNephy&layout=compact&theme=tokyonight&langs_count=8&hide=gnuplot" title="GitHub Top Languages Card">
 </a>
+
+<a href="https://annict.jp/@SlashNephy">
+  <img align="center" src="https://annict-card-dev.starry.blue/watching/SlashNephy" title="Annict Watching Card">
+</a>
