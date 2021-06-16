@@ -36,5 +36,5 @@
 </a>
 
 <a href="https://annict.jp/@SlashNephy">
-  <img align="center" src="https://annict-card-dev.starry.blue/watching/SlashNephy?limit_images=0" title="Annict Watching Card">
+  <img align="center" src="https://annict-card-dev.starry.blue/watching/SlashNephy?limit_images=1&season=all" title="Annict Watching Card">
 </a>
