@@ -2,15 +2,17 @@
 **SlashNephy/SlashNephy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/SlashNephy?style=social)](https://github.com/SlashNephy)
-[![GitHub User's stars](https://img.shields.io/github/stars/SlashNephy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/SlashNephy)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SlashNephy?style=social)](https://twitter.com/SlashNephy)
-[![Discord](https://img.shields.io/discord/187578406940966912?label=Discord%20Server)](https://discord.gg/KA3US7r6zX)
+[![GitHub User's stars](https://img.shields.io/github/stars/SlashNephy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=GitHub%20Total%20%E2%98%85&logo=github&style=flat-square)](https://github.com/SlashNephy)
+[![Twitter](https://img.shields.io/twitter/follow/SlashNephy?label=Twitter&logo=twitter&&style=flat-square&color=blue)](https://twitter.com/SlashNephy)
+[![Discord](https://img.shields.io/discord/187578406940966912?label=Discord&logo=discord&style=flat-square&color=blue)](https://discord.gg/KA3US7r6zX)
+[![Steam](https://img.shields.io/badge/Steam-playing-blue?logo=steam&style=flat-square)](https://steamcommunity.com/profiles/76561198291900433)
+[![Spotify](https://img.shields.io/badge/Spotify-listening-blue?logo=spotify&style=flat-square)](https://open.spotify.com/user/v1h824j8sxke430y505vk0wu8)
+[![Last.fm](https://img.shields.io/badge/Last.fm-scrobbling-blue?logo=lastdotfm&style=flat-square)](https://www.last.fm/user/AsteriaNocturna)
 
-[![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy)](https://keybase.io/SlashNephy)
-[![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy)](https://keybase.io/SlashNephy)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy?logo=monkeytie&style=flat-square)](https://keybase.io/SlashNephy)
+[![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy?logo=bitcoin&style=flat-square)](https://keybase.io/SlashNephy)
 
-(*˘︶˘*).｡.:*♡ : Favorite things
+(\*˘︶˘\*).｡.:\*♡ : Favorite things
 
 📖 Language: [Kotlin](https://kotlinlang.org), [.NET](https://docs.microsoft.com/ja-jp/dotnet) (C#), [Python](https://www.python.org), [Rust](https://www.rust-lang.org), [TypeScript](https://www.typescriptlang.org)
 
@@ -18,13 +20,13 @@
 
 ⌨️ Terminal / Shell: [Windows Terminal](https://docs.microsoft.com/ja-jp/windows/terminal) / [xonsh](https://xon.sh)
 
-🅰️ Font: [Cascadia Mono](https://docs.microsoft.com/ja-jp/windows/terminal/cascadia-code), [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP), [Avenir Next Pro](https://fontplus.jp/font-list/avenirnextltpro-medium)
+🅰️ Font: [Cascadia Mono](https://docs.microsoft.com/ja-jp/windows/terminal/cascadia-code), [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP)
 
 🖥 OS: [Arch Linux](https://archlinux.org), [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/ja-jp/windows/wsl)
 
 🐋 Virtualization: [Docker](https://www.docker.com), [Portainer](https://www.portainer.io)
 
-🧰 Tool: [nginx](https://www.nginx.com), [Jupyter](https://jupyter.org)
+🧰 Tool: [Traefik](https://traefik.io/traefik), [Jupyter](https://jupyter.org)
 
 
 <a href="https://github.com/SlashNephy">
