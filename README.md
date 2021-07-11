@@ -8,7 +8,7 @@
 [![Steam](https://img.shields.io/badge/Steam-playing-blue?logo=steam&style=flat-square)](https://steamcommunity.com/profiles/76561198291900433)
 
 [![Spotify](https://img.shields.io/badge/Spotify-listening-blue?logo=spotify&style=flat-square)](https://open.spotify.com/user/v1h824j8sxke430y505vk0wu8)
-[![Last.fm](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Flastfm-shields.starrybluesky.workers.dev%2F)](https://www.last.fm/user/AsteriaNocturna)
+[![Last.fm](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Flastfm-shields.starrybluesky.workers.dev%2F&cacheSeconds=30)](https://www.last.fm/user/AsteriaNocturna)
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy?logo=monkeytie&style=flat-square)](https://keybase.io/SlashNephy)
 [![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy?logo=bitcoin&style=flat-square)](https://keybase.io/SlashNephy)
