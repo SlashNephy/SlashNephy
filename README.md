@@ -13,23 +13,6 @@
 [![Keybase PGP](https://img.shields.io/keybase/pgp/SlashNephy?logo=monkeytie&style=flat-square)](https://keybase.io/SlashNephy)
 [![Keybase BTC](https://img.shields.io/keybase/btc/SlashNephy?logo=bitcoin&style=flat-square)](https://keybase.io/SlashNephy)
 
-(\*˘︶˘\*).｡.:\*♡ : Favorite things
-
-📖 Language: [Kotlin](https://kotlinlang.org), [.NET](https://docs.microsoft.com/ja-jp/dotnet) (C#), [Python](https://www.python.org), [Rust](https://www.rust-lang.org), [TypeScript](https://www.typescriptlang.org)
-
-📝 Editor: [VS Code](https://code.visualstudio.com), [JetBrains](https://www.jetbrains.com) IDEs (such as [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea)), nano
-
-⌨️ Terminal / Shell: [Windows Terminal](https://docs.microsoft.com/ja-jp/windows/terminal) / [xonsh](https://xon.sh)
-
-🅰️ Font: [Cascadia Mono](https://docs.microsoft.com/ja-jp/windows/terminal/cascadia-code), [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP)
-
-🖥 OS: [Arch Linux](https://archlinux.org), [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/ja-jp/windows/wsl)
-
-🐋 Virtualization: [Docker](https://www.docker.com), [Portainer](https://www.portainer.io)
-
-🧰 Tool: [Traefik](https://traefik.io/traefik), [Jupyter](https://jupyter.org)
-
-
 <a href="https://github.com/SlashNephy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SlashNephy&show_icons=true&count_private=true&theme=tokyonight&custom_title=Statistics" title="GitHub Stats Car">
 </a>
