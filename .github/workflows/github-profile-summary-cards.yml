@@ -1,0 +1,21 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '* */3 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
